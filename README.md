@@ -11,14 +11,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### **Front-end**
 
-<br>
-
 - [x] React
 - [x] HTML
 - [x] CSS
 - [x] React-Router-Dom
-
-<br>
 
 ## 👷 Como rodar
 
